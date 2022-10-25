@@ -1,4 +1,4 @@
-package com.example.rest_service_lab1;
+package com.urfu.rest_service_lab1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

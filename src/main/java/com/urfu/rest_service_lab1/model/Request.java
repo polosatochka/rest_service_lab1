@@ -1,4 +1,4 @@
-package com.example.rest_service_lab1.model;
+package com.urfu.rest_service_lab1.model;
 
 import lombok.Builder;
 import lombok.Data;
@@ -13,7 +13,7 @@ public class Request {
 
     @NotBlank
     @Size(max = 32)
-    private String uid;
+    private String Uid;
 
     @NotBlank
     @Size(max = 32)
