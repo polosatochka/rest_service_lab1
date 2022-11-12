@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 public class ModifyUid implements MyModifyService{
     @Override
     public Response modify(Response response){
-        response.setUid("NewUid");
+        response.setUid("NewlyBakedUid");
         return response;
     }
 }
